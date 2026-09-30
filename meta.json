@@ -1,0 +1,25 @@
+{
+  "repo": "remote-desktop-manager-max",
+  "product": "Remote Desktop Manager Max",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "remote-access",
+  "topics": [
+    "remote-desktop-manager-max",
+    "remote-desktop",
+    "remote-windows",
+    "screen-sharing",
+    "file-transfer",
+    "unattended-access",
+    "support-sessions",
+    "desktop-remote",
+    "windows-remote-tools",
+    "session-manager",
+    "multi-monitor",
+    "low-latency-remote"
+  ],
+  "site": "zentool.art"
+}
